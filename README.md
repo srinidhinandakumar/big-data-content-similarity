@@ -28,36 +28,37 @@ The final dataset has the following columns:-
 
   ### File Structure
   ---
-  datasets
-  	original_datasets : contains original dataset copies for all datasets used
+  - datasets
+  	
+    - original_datasets : contains original dataset copies for all datasets used
+   
+    - intermediate_datasets: contains any intermediate datasets used by us to reach final merged dataset
 
-  	intermediate_datasets: contains any intermediate datasets used by us to reach final merged dataset
+    - modified_datasets: final dataset
 
-  	modified_datasets: final dataset
+  - code: code files including python scripts and tika-similarity modified files
 
-  code: code files including python scripts and tika-similarity modified files
+  - documents: readme and doc file with answers to questions
 
-  documents: readme and doc file with answers to questions
-
-  results: contains images and screenshots, graphs and maps to show inferences and conclusions from the analysis on the final dataset
+  - results: contains images and screenshots, graphs and maps to show inferences and conclusions from the analysis on the final dataset
   
   ### Scripts to run different files:-
 
 - Files that contribute to data generation and merging of datasets are:-
 
-* aiprots_pollution_feature.py
-* Helper.py
-* Integrate_cancer.py 
-* integrate_drug.py
-* ufo_add_lat_long.py
-* ufo_airport_pollution_merge.py
+  - aiprots_pollution_feature.py
+  - Helper.py
+  - Integrate_cancer.py 
+  - integrate_drug.py
+  - ufo_add_lat_long.py
+  - ufo_airport_pollution_merge.py
 
 - Files that contribute to visualization:-
 
-* visualization_air_quality.py
-* visualization_cancer.py
-* visualization_demographics.py
-* visualization_ufo.py
+  - visualization_air_quality.py
+  - visualization_cancer.py
+  - visualization_demographics.py
+  - visualization_ufo.py
 
 *Due to large size of dataset and high computation requirement, we divided the initial dataset into 8 parts and creates an instance on Azure cloud. We ran the location based merge of datasets on this instance to achieve max efficiency and relatively quick results*
 
@@ -85,18 +86,19 @@ The final dataset has the following columns:-
    
    `python visualization_demographics.py path/to/merged_dataset year`
 
- - Tika changes:
- 	Jaccard changes - Existing infrastructure ran the algorithm on the metadata, that too on the "key" and not on the "value". 
+ - Tika-Similarity changes:
+ 	
+  **Jaccard changes** - Existing infrastructure ran the algorithm on the metadata, that too on the "key" and not on the "value". 
 
- 	Now, one more functionality has been included which compares all the features of a single dataset using jaccard algorithm. 
+Now, one more functionality has been included which compares all the features of a single dataset using jaccard algorithm. 
 
- 	Basically every entry has a "key" and "value" pair and the jaccard similarity algorithm is applied to the "value" as it makes more sense. 
+Basically every entry has a "key" and "value" pair and the jaccard similarity algorithm is applied to the "value" as it makes more sense. 
 
- 	Corresponding changes were made in circle_packing.py and cluster_scores.py so that correct the json object is passed on to circlepacking.html and cluster-D3.html
+Corresponding changes were made in circle_packing.py and cluster_scores.py so that correct the json object is passed on to circlepacking.html and cluster-D3.html
 
- 	We have tried this algorithm only on a subset of our final dataset with 100 entries for better clarity and understanding. 
+We have tried this algorithm only on a subset of our final dataset with 100 entries for better clarity and understanding. 
 
- 	Ideal threshold :- 0.0001 t 0.0003
+Ideal threshold :- 0.0001 t 0.0003
 
 - running feature_jaccard.py
   `python feature_jaccard.py -f <filename>`
