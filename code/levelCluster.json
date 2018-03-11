@@ -1,0 +1,687 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '29,653', 'county': 'King', 'SO2 Mean': '1.272727', 'O3 Mean': '0.004292', 'reported_at': '20021016', 'cancer_incidence_counts_white': '27,376', 'airport_name': 'Kenmore Air Harbor Inc Seaplane Base', 'longitude': -122.2809623, 'cancer_incidence_counts_hispanic': '649', 'duration': '3-4 minutes', 'shape': ' sphere', 'location': ' Lake Forest Park, WA', 'death rate': '<2', 'latitude': 47.7567679, 'airport_distance': 1.0293660147793005, 'sighted_at': '20021015', 'CO Mean': '0.7375', 'population': '308'}\n",
+                            "name": "2",
+                            "path": "2",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '142,279', 'county': 'Los Angeles', 'SO2 Mean': '2.225', 'O3 Mean': '0.027458', 'reported_at': '20080804', 'cancer_incidence_counts_white': '118,604', 'airport_name': 'City Hall Heliport', 'longitude': -118.244476, 'cancer_incidence_counts_hispanic': '19,408', 'duration': '1 minute or so', 'shape': ' circle', 'location': ' Los Angeles, CA', 'death rate': '6-7.9', 'latitude': 34.054935, 'airport_distance': 0.09888836999668714, 'sighted_at': '20010912', 'CO Mean': '0.675', 'population': '9626034'}\n",
+                            "name": "7",
+                            "path": "7",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '24,386', 'county': 'Mobile', 'SO2 Mean': '4.785714', 'O3 Mean': '0.02025', 'reported_at': '20040914', 'cancer_incidence_counts_white': '22,768', 'airport_name': 'Schu Ranch Airport', 'longitude': -112.2704579, 'cancer_incidence_counts_hispanic': '2,668', 'duration': '15 mn.', 'shape': ' unknown', 'location': ' Mobile, AZ', 'death rate': '8-9.9', 'latitude': 33.0579792, 'airport_distance': 2.8973938868952627, 'sighted_at': '20040613', 'CO Mean': '1.554167', 'population': '397959'}\n",
+                            "name": "12",
+                            "path": "12",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '23,422', 'county': 'Coconino', 'SO2 Mean': '1.708333', 'O3 Mean': '0.0155', 'reported_at': '20020804', 'cancer_incidence_counts_white': '22,110', 'airport_name': 'Sedona Airport', 'longitude': -111.7929891, 'cancer_incidence_counts_hispanic': '2,435', 'duration': '6 min.', 'shape': ' disk', 'location': ' Sedona, AZ', 'death rate': '6-7.9', 'latitude': 34.8657757, 'airport_distance': 1.2203913592319378, 'sighted_at': '20020529', 'CO Mean': '1.342857', 'population': '121308'}\n",
+                            "name": "19",
+                            "path": "19",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '31,375', 'county': 'King', 'SO2 Mean': '2.585714', 'O3 Mean': '0.005542', 'reported_at': '20070502', 'cancer_incidence_counts_white': '28,637', 'airport_name': '1001 Fourth Avenue Plaza Heliport', 'longitude': -122.3300624, 'cancer_incidence_counts_hispanic': '842', 'duration': '30sec.', 'shape': ' fireball', 'location': ' Seattle, WA', 'death rate': '<2', 'latitude': 47.6038321, 'airport_distance': 0.2752033620166583, 'sighted_at': '20070102', 'CO Mean': '0.504348', 'population': '284'}\n",
+                            "name": "20",
+                            "path": "20",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '42,074', 'county': 'Cobb', 'SO2 Mean': '0.0', 'O3 Mean': '0.037375', 'reported_at': '20071113', 'cancer_incidence_counts_white': '30,885', 'airport_name': 'Cobb County-Mc Collum Field', 'longitude': -84.6768796, 'cancer_incidence_counts_hispanic': '895', 'duration': '3 minutes', 'shape': ' sphere', 'location': ' Acworth, GA', 'death rate': '8-9.9', 'latitude': 34.0659329, 'airport_distance': 5.777554001079376, 'sighted_at': '20071111', 'CO Mean': '0.1', 'population': '670438'}\n",
+                            "name": "21",
+                            "path": "21",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '52,162', 'county': 'Wayne', 'SO2 Mean': '0.958333', 'O3 Mean': '0.041417', 'reported_at': '20050301', 'cancer_incidence_counts_white': '44,370', 'airport_name': 'Henry Ford Wyandotte Hospital Heliport', 'longitude': -83.2046086601821, 'cancer_incidence_counts_hispanic': '762', 'duration': '', 'shape': ' unknown', 'location': ' Southgate, MI', 'death rate': '10-11.9', 'latitude': 42.20611635, 'airport_distance': 3.096376577104893, 'sighted_at': '20040501', 'CO Mean': '0.054167', 'population': '28227'}\n",
+                            "name": "26",
+                            "path": "26",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '55,891', 'county': 'Wayne', 'SO2 Mean': '1.25', 'O3 Mean': '0.036', 'reported_at': '20080108', 'cancer_incidence_counts_white': '47,228', 'airport_name': 'Detroit Medical Center Heliport', 'longitude': -83.0567375, 'cancer_incidence_counts_hispanic': '980', 'duration': '2 min.', 'shape': ' other', 'location': ' Detroit, MI', 'death rate': '12-13.9', 'latitude': 42.3486635, 'airport_distance': 0.5781498620142088, 'sighted_at': '20071116', 'CO Mean': '0.329167', 'population': '29421'}\n",
+                            "name": "33",
+                            "path": "33",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '20,885', 'county': 'Perry', 'SO2 Mean': '3.333333', 'O3 Mean': '0.012792', 'reported_at': '19991112', 'cancer_incidence_counts_white': '19,547', 'airport_name': '9 Newsport Heliport', 'longitude': -84.4919524, 'cancer_incidence_counts_hispanic': '-', 'duration': '5 minutes', 'shape': ' sphere', 'location': ' Newport, KY', 'death rate': '<2', 'latitude': 39.0889469, 'airport_distance': 1.1618480479872215, 'sighted_at': '19990323', 'CO Mean': '0.520833', 'population': '12001'}\n",
+                            "name": "42",
+                            "path": "42",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '156,216', 'county': 'Humboldt', 'SO2 Mean': '1.771429', 'O3 Mean': '0.044391', 'reported_at': '20070321', 'cancer_incidence_counts_white': '126,933', 'airport_name': 'Livermore Municipal Airport', 'longitude': -121.7680531, 'cancer_incidence_counts_hispanic': '25,446', 'duration': '< 1 min', 'shape': ' circle', 'location': ' Livermore, CA', 'death rate': '24-25.9', 'latitude': 37.6820583, 'airport_distance': 2.947274512662148, 'sighted_at': '20070320', 'CO Mean': '0.482609', 'population': '132001'}\n",
+                            "name": "44",
+                            "path": "44",
+                            "score": 0.0145
+                        }
+                    ],
+                    "name": "group0"
+                },
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '4,586', 'county': 'Gallatin', 'SO2 Mean': '0.652174', 'O3 Mean': '0.04155', 'reported_at': '19991118', 'cancer_incidence_counts_white': '4,335', 'airport_name': 'Bozeman Deaconess Hospital Heliport', 'longitude': -111.044675, 'cancer_incidence_counts_hispanic': '29', 'duration': '30 min', 'shape': ' light', 'location': ' Bozeman, MT', 'death rate': '2-3.9', 'latitude': 45.679984, 'airport_distance': 1.419127717726362, 'sighted_at': '19991029', 'CO Mean': '0.2', 'population': '6477'}\n",
+                            "name": "47",
+                            "path": "47",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '61,945', 'county': 'Cook', 'SO2 Mean': '0.2875', 'O3 Mean': '0.0105', 'reported_at': '20051001', 'cancer_incidence_counts_white': '51,871', 'airport_name': 'Tinley Park Helistop', 'longitude': -87.7844944, 'cancer_incidence_counts_hispanic': '2,941', 'duration': '15 minutes', 'shape': ' unknown', 'location': ' Tinley Park, IL', 'death rate': '4-5.9', 'latitude': 41.5733669, 'airport_distance': 1.4739493369853782, 'sighted_at': '20050930', 'CO Mean': '1.329167', 'population': '16567'}\n",
+                            "name": "49",
+                            "path": "49",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '158,538', 'county': 'San Francisco', 'SO2 Mean': '2.25', 'O3 Mean': '0.032125', 'reported_at': '20080118', 'cancer_incidence_counts_white': '128,641', 'airport_name': 'Quebec/S\\\\u00fbret\\\\u00e9 Heliport', 'longitude': -71.2743272, 'cancer_incidence_counts_hispanic': '26,964', 'duration': 'seconds', 'shape': ' light', 'location': ' San Francisco, CA', 'death rate': '14-15.9', 'latitude': 46.8443248, 'airport_distance': 0.8500920157274447, 'sighted_at': '20080113', 'CO Mean': '0.383333', 'population': '791152'}\n",
+                            "name": "50",
+                            "path": "50",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '24,543', 'county': 'Crawford', 'SO2 Mean': '2.380952', 'O3 Mean': '0.013167', 'reported_at': '20070928', 'cancer_incidence_counts_white': '22,918', 'airport_name': 'Mount Sterling Montgomery County Airport', 'longitude': -83.9431961, 'cancer_incidence_counts_hispanic': '-', 'duration': '2 minutes', 'shape': ' rectangle', 'location': ' Mount Sterling, KY', 'death rate': '12-13.9', 'latitude': 38.0561079, 'airport_distance': 1.9858026897448422, 'sighted_at': '20070920', 'CO Mean': '0.626667', 'population': '60210'}\n",
+                            "name": "52",
+                            "path": "52",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '8,364', 'county': 'Scioto', 'SO2 Mean': '0.608696', 'O3 Mean': '0.017917', 'reported_at': '20090418', 'cancer_incidence_counts_white': '8,199', 'airport_name': 'Dewitt Field,Old Town Municipal Airport', 'longitude': -68.671977, 'cancer_incidence_counts_hispanic': '17', 'duration': '7 minutes', 'shape': ' triangle', 'location': ' Orono (University of Maine), ME', 'death rate': '22-23.9', 'latitude': 44.8831249, 'airport_distance': 4.8168356009562805, 'sighted_at': '20090417', 'CO Mean': '1.0375', 'population': '79241'}\n",
+                            "name": "57",
+                            "path": "57",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '28,642', 'county': 'Wyandotte', 'SO2 Mean': '2.541667', 'O3 Mean': '0.034667', 'reported_at': '20020503', 'cancer_incidence_counts_white': '25,770', 'airport_name': 'Williams Airport', 'longitude': -94.5408358, 'cancer_incidence_counts_hispanic': '216', 'duration': 'Two minutes', 'shape': ' triangle', 'location': ' Kansas City, MO', 'death rate': '6-7.9', 'latitude': 38.6843072, 'airport_distance': 3.1039445526255953, 'sighted_at': '20020502', 'CO Mean': '0.508333', 'population': '157498'}\n",
+                            "name": "58",
+                            "path": "58",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '35,927', 'county': 'Norfolk', 'SO2 Mean': '0.0', 'O3 Mean': '0.025417', 'reported_at': '20030101', 'cancer_incidence_counts_white': '33,718', 'airport_name': 'Pg Heliport', 'longitude': -70.999492, 'cancer_incidence_counts_hispanic': '-', 'duration': '20 min', 'shape': ' oval', 'location': ' Braintree, MA', 'death rate': '8-9.9', 'latitude': 42.2223218, 'airport_distance': 4.486737130416777, 'sighted_at': '20021224', 'CO Mean': '0.325', 'population': '653860'}\n",
+                            "name": "59",
+                            "path": "59",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '13,158', 'county': 'Kitsap', 'SO2 Mean': '15.375', 'O3 Mean': '0.033958', 'reported_at': '20030623', 'cancer_incidence_counts_white': '12,221', 'airport_name': 'St Francis Regional Medical Center Heliport', 'longitude': -97.3375448, 'cancer_incidence_counts_hispanic': '336', 'duration': '10 sec', 'shape': ' other', 'location': ' Wichita/Mulvane, KS', 'death rate': '8-9.9', 'latitude': 37.6922361, 'airport_distance': 0.5960338538208734, 'sighted_at': '20030522', 'CO Mean': '0.125', 'population': '239758'}\n",
+                            "name": "61",
+                            "path": "61",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '53,562', 'county': 'Trumbull', 'SO2 Mean': '19.6', 'O3 Mean': '0.025583', 'reported_at': '20060807', 'cancer_incidence_counts_white': '45,353', 'airport_name': 'Acme Heliport', 'longitude': -83.0277001, 'cancer_incidence_counts_hispanic': '811', 'duration': '2 minutes approx.', 'shape': ' fireball', 'location': ' Warren, MI', 'death rate': '16-17.9', 'latitude': 42.4775364, 'airport_distance': 0.9332636014538755, 'sighted_at': '20060805', 'CO Mean': '0.0', 'population': '216185'}\n",
+                            "name": "67",
+                            "path": "67",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '34,440', 'county': 'Thurston', 'SO2 Mean': '3.725', 'O3 Mean': '0.020458', 'reported_at': '20100306', 'cancer_incidence_counts_white': '31,129', 'airport_name': 'Capitol Medical Center Heliport', 'longitude': -122.8948725, 'cancer_incidence_counts_hispanic': '1,128', 'duration': '4 minutes', 'shape': ' light', 'location': ' Olympia, WA', 'death rate': '4-5.9', 'latitude': 47.0450197, 'airport_distance': 2.645569467811928, 'sighted_at': '20100305', 'CO Mean': '0.0', 'population': '6970'}\n",
+                            "name": "68",
+                            "path": "68",
+                            "score": 0.0145
+                        }
+                    ],
+                    "name": "group1"
+                },
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '37,358', 'county': 'Morris', 'SO2 Mean': '4.166667', 'O3 Mean': '0.004667', 'reported_at': '20081008', 'cancer_incidence_counts_white': '29,291', 'airport_name': 'Novant Health UVA Haymarket Medical Center Heliport', 'longitude': -77.6290099209687, 'cancer_incidence_counts_hispanic': '813', 'duration': '1-2 Minutes', 'shape': ' circle', 'location': ' Gainesville/Haymarket, VA', 'death rate': '4-5.9', 'latitude': 38.8101034, 'airport_distance': 0.9477299311465418, 'sighted_at': '20081007', 'CO Mean': '0.8625', 'population': '5999'}\n",
+                            "name": "70",
+                            "path": "70",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '3,488', 'county': 'Morton', 'SO2 Mean': '4.5', 'O3 Mean': '0.044', 'reported_at': '20090824', 'cancer_incidence_counts_white': '3,346', 'airport_name': 'Mandan Municipal Airport', 'longitude': -100.889704, 'cancer_incidence_counts_hispanic': '~', 'duration': '5 minutes', 'shape': ' light', 'location': ' Mandan, ND', 'death rate': '4-5.9', 'latitude': 46.826415, 'airport_distance': 4.02853081527218, 'sighted_at': '20090821', 'CO Mean': '1.308333', 'population': '3226'}\n",
+                            "name": "72",
+                            "path": "72",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '60,951', 'county': 'Fairfield', 'SO2 Mean': '9.208333', 'O3 Mean': '0.01975', 'reported_at': '20031206', 'cancer_incidence_counts_white': '51,387', 'airport_name': 'Delnor Community Hospital Heliport', 'longitude': -88.31249, 'cancer_incidence_counts_hispanic': '2,583', 'duration': '4 seconds', 'shape': ' light', 'location': ' St Charles, IL', 'death rate': '6-7.9', 'latitude': 41.9139556, 'airport_distance': 2.429720697815013, 'sighted_at': '20031205', 'CO Mean': '0.445833', 'population': '896342'}\n",
+                            "name": "75",
+                            "path": "75",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '142,507', 'county': 'Jefferson', 'SO2 Mean': '3.5625', 'O3 Mean': '0.019875', 'reported_at': '20070802', 'cancer_incidence_counts_white': '117,730', 'airport_name': 'Philip Airport', 'longitude': -101.6651441, 'cancer_incidence_counts_hispanic': '21,089', 'duration': '30 to 40 seconds', 'shape': ' light', 'location': ' Philippine Sea/Pacific Ocean, CA', 'death rate': '8-9.9', 'latitude': 44.0394329, 'airport_distance': 3.3465108161739865, 'sighted_at': '20031023', 'CO Mean': '0.479167', 'population': '657513'}\n",
+                            "name": "78",
+                            "path": "78",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '27,708', 'county': 'Wood', 'SO2 Mean': '5.475', 'O3 Mean': '0.016417', 'reported_at': '19990122', 'cancer_incidence_counts_white': '24,927', 'airport_name': 'Beckner Field', 'longitude': -92.9071209, 'cancer_incidence_counts_hispanic': '197', 'duration': '40 minutes', 'shape': ' light', 'location': ' Marshfield, MO', 'death rate': '2-3.9', 'latitude': 37.338658, 'airport_distance': 4.361463475875013, 'sighted_at': '19990120', 'CO Mean': '0.279167', 'population': '120869'}\n",
+                            "name": "79",
+                            "path": "79",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '142,507', 'county': 'Windsor', 'SO2 Mean': '3.7625', 'O3 Mean': '0.028125', 'reported_at': '20040118', 'cancer_incidence_counts_white': '117,730', 'airport_name': 'Doaktown Airport', 'longitude': -66.3448389, 'cancer_incidence_counts_hispanic': '21,089', 'duration': '4MIN', 'shape': ' chevron', 'location': ' Ludlow, CA', 'death rate': '8-9.9', 'latitude': 46.4901834, 'airport_distance': 12.686829068066611, 'sighted_at': '20030613', 'CO Mean': '0.941667', 'population': '57682'}\n",
+                            "name": "80",
+                            "path": "80",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '148,265', 'county': 'San Diego', 'SO2 Mean': '2.043478', 'O3 Mean': '0.017625', 'reported_at': '20051027', 'cancer_incidence_counts_white': '121,624', 'airport_name': 'Borrego Valley Airport', 'longitude': -116.356946574425, 'cancer_incidence_counts_hispanic': '23,539', 'duration': '4min', 'shape': ' triangle', 'location': ' Borrego Springs, CA', 'death rate': '8-9.9', 'latitude': 33.255356, 'airport_distance': 2.0927213033624095, 'sighted_at': '20051026', 'CO Mean': '0.083333', 'population': '2938375'}\n",
+                            "name": "83",
+                            "path": "83",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '23,364', 'county': 'Cleburne', 'SO2 Mean': '0.785714', 'O3 Mean': '0.014125', 'reported_at': '20060130', 'cancer_incidence_counts_white': '18,334', 'airport_name': 'The Health Care Authority of the City of Anniston Heliport', 'longitude': -85.5874584, 'cancer_incidence_counts_hispanic': '122', 'duration': 'a few seconds', 'shape': ' triangle', 'location': ' Heflin, AL', 'death rate': '6-7.9', 'latitude': 33.6489948, 'airport_distance': 13.640109798953093, 'sighted_at': '20060128', 'CO Mean': '0.970833', 'population': '14538'}\n",
+                            "name": "86",
+                            "path": "86",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '49,326', 'county': 'Burlington', 'SO2 Mean': '4.6', 'O3 Mean': '0.028833', 'reported_at': '20090221', 'cancer_incidence_counts_white': '42,075', 'airport_name': 'Pemberton Airport', 'longitude': -74.6852159076025, 'cancer_incidence_counts_hispanic': '3,584', 'duration': 'About 20 Mins.', 'shape': ' unknown', 'location': ' Pemberton, NJ', 'death rate': '8-9.9', 'latitude': 39.971561, 'airport_distance': 0.8294131374644306, 'sighted_at': '20070721', 'CO Mean': '0.633333', 'population': '447560'}\n",
+                            "name": "93",
+                            "path": "93",
+                            "score": 0.0145
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '104,985', 'county': 'Leon', 'SO2 Mean': '2.045455', 'O3 Mean': '0.020792', 'reported_at': '20080426', 'cancer_incidence_counts_white': '93,323', 'airport_name': 'Tallahassee Memorial Hospital Heliport', 'longitude': -84.2809332, 'cancer_incidence_counts_hispanic': '12,464', 'duration': '10 minutes', 'shape': ' cigar', 'location': ' Tallahassee, FL', 'death rate': '4-5.9', 'latitude': 30.4380832, 'airport_distance': 1.7867570215201978, 'sighted_at': '20051201', 'CO Mean': '0.691667', 'population': '258083'}\n",
+                            "name": "95",
+                            "path": "95",
+                            "score": 0.0145
+                        }
+                    ],
+                    "name": "group2"
+                },
+                {
+                    "children": [],
+                    "name": "group3"
+                }
+            ],
+            "name": "cluster0"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '142,507', 'county': 'Cook', 'SO2 Mean': '4.045455', 'O3 Mean': '0.013917', 'reported_at': '20030330', 'cancer_incidence_counts_white': '117,730', 'airport_name': 'St Joseph Medical Center Heliport', 'longitude': -118.3258554, 'cancer_incidence_counts_hispanic': '21,089', 'duration': '10 minutes', 'shape': ' fireball', 'location': ' Burbank, CA', 'death rate': '4-5.9', 'latitude': 34.1816482, 'airport_distance': 1.8091322817415507, 'sighted_at': '20030330', 'CO Mean': '1.278261', 'population': '16060'}\n",
+                            "name": "3",
+                            "path": "3",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '158,538', 'county': 'Sacramento', 'SO2 Mean': '0.333333', 'O3 Mean': '0.022167', 'reported_at': '20081120', 'cancer_incidence_counts_white': '128,641', 'airport_name': 'Mercy San Juan Hospital Heliport', 'longitude': -121.2810611, 'cancer_incidence_counts_hispanic': '26,964', 'duration': '30 seconds', 'shape': ' sphere', 'location': ' Citrus Heights, CA', 'death rate': '10-11.9', 'latitude': 38.7071247, 'airport_distance': 3.2028689499987277, 'sighted_at': '20081120', 'CO Mean': '0.941667', 'population': '1394438'}\n",
+                            "name": "4",
+                            "path": "4",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '45,099', 'county': 'Eaton', 'SO2 Mean': '0.108696', 'O3 Mean': '0.035208', 'reported_at': '20061113', 'cancer_incidence_counts_white': '35,841', 'airport_name': 'Wbtv Heliport', 'longitude': -80.8431268, 'cancer_incidence_counts_hispanic': '642', 'duration': '5 min', 'shape': ' circle', 'location': ' Charlotte, NC', 'death rate': '6-7.9', 'latitude': 35.2270869, 'airport_distance': 1.4656759562745674, 'sighted_at': '20061113', 'CO Mean': '0.195652', 'population': '108364'}\n",
+                            "name": "14",
+                            "path": "14",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '41,580', 'county': 'Hoke', 'SO2 Mean': '0.416667', 'O3 Mean': '0.028292', 'reported_at': '20040909', 'cancer_incidence_counts_white': '33,100', 'airport_name': 'Viking Airport', 'longitude': -79.2241998, 'cancer_incidence_counts_hispanic': '536', 'duration': '10 to 15 seconds', 'shape': ' teardrop', 'location': ' Raeford, NC', 'death rate': '4-5.9', 'latitude': 34.9809996, 'airport_distance': 2.831329571180231, 'sighted_at': '20040909', 'CO Mean': '0.3', 'population': '38119'}\n",
+                            "name": "17",
+                            "path": "17",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '23,134', 'county': 'Hamilton', 'SO2 Mean': '3.1375', 'O3 Mean': '0.026', 'reported_at': '20000406', 'cancer_incidence_counts_white': '20,281', 'airport_name': 'Erlanger Medical Center Heliport', 'longitude': -85.3096801, 'cancer_incidence_counts_hispanic': '102', 'duration': '2 hrs.', 'shape': ' other', 'location': ' Chattanooga, TN', 'death rate': '2-3.9', 'latitude': 35.0456297, 'airport_distance': 1.1130763554201357, 'sighted_at': '20000406', 'CO Mean': '0.741667', 'population': '13330'}\n",
+                            "name": "24",
+                            "path": "24",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '31,375', 'county': 'Yakima', 'SO2 Mean': '0.3625', 'O3 Mean': '0.036292', 'reported_at': '20070621', 'cancer_incidence_counts_white': '28,637', 'airport_name': 'Providence Medical Plaza Heliport', 'longitude': -120.5108421, 'cancer_incidence_counts_hispanic': '842', 'duration': '10 seconds', 'shape': ' light', 'location': ' Yakima, WA', 'death rate': '8-9.9', 'latitude': 46.601557, 'airport_distance': 0.5998545435527424, 'sighted_at': '20070621', 'CO Mean': '0.6', 'population': '232733'}\n",
+                            "name": "27",
+                            "path": "27",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '25,095', 'county': 'Oswego', 'SO2 Mean': '1.0', 'O3 Mean': '0.01875', 'reported_at': '20050518', 'cancer_incidence_counts_white': '23,212', 'airport_name': 'KTSP Heliport', 'longitude': -112.0773456, 'cancer_incidence_counts_hispanic': '2,823', 'duration': '10 minutes', 'shape': ' diamond', 'location': ' Phoenix, AZ', 'death rate': '4-5.9', 'latitude': 33.4485866, 'airport_distance': 0.21093920617764145, 'sighted_at': '20050518', 'CO Mean': '0.258333', 'population': '122640'}\n",
+                            "name": "46",
+                            "path": "46",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '34,235', 'county': 'King', 'SO2 Mean': '0.956522', 'O3 Mean': '0.031583', 'reported_at': '20090203', 'cancer_incidence_counts_white': '31,170', 'airport_name': 'Tukwila Operations Center Heliport', 'longitude': -122.2559156, 'cancer_incidence_counts_hispanic': '1,001', 'duration': '1hr', 'shape': ' light', 'location': ' Tukwila, WA', 'death rate': '<2', 'latitude': 47.4627356, 'airport_distance': 1.6613620955628374, 'sighted_at': '20090203', 'CO Mean': '0.391304', 'population': '279'}\n",
+                            "name": "53",
+                            "path": "53",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '17,889', 'county': 'Tulsa', 'SO2 Mean': '4.5', 'O3 Mean': '0.03375', 'reported_at': '20050124', 'cancer_incidence_counts_white': '15,332', 'airport_name': 'KOTV Heliport', 'longitude': -95.9929113, 'cancer_incidence_counts_hispanic': '376', 'duration': 'unknown was stil going', 'shape': ' light', 'location': ' Tulsa, OK', 'death rate': '12-13.9', 'latitude': 36.1556805, 'airport_distance': 0.3651359415751803, 'sighted_at': '20050124', 'CO Mean': '0.05', 'population': '568199'}\n",
+                            "name": "64",
+                            "path": "64",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '148,265', 'county': 'Dickey', 'SO2 Mean': '0.014286', 'O3 Mean': '0.016167', 'reported_at': '20050723', 'cancer_incidence_counts_white': '121,624', 'airport_name': 'Northrop Anaheim Heliport', 'longitude': -117.9294165, 'cancer_incidence_counts_hispanic': '23,539', 'duration': '30 minutes', 'shape': ' other', 'location': ' Fullerton, CA', 'death rate': '<2', 'latitude': 33.8708215, 'airport_distance': 0.8182119568533335, 'sighted_at': '20050723', 'CO Mean': '0.320833', 'population': '5496'}\n",
+                            "name": "65",
+                            "path": "65",
+                            "score": 0.0137
+                        }
+                    ],
+                    "name": "group0"
+                },
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '25,325', 'county': 'Etowah', 'SO2 Mean': '7.0', 'O3 Mean': '0.013917', 'reported_at': '20100710', 'cancer_incidence_counts_white': '19,538', 'airport_name': 'Northeast Alabama Regional Airport', 'longitude': -86.0678139379529, 'cancer_incidence_counts_hispanic': '166', 'duration': '4 seconds', 'shape': ' light', 'location': ' Gadsden, AL', 'death rate': '12-13.9', 'latitude': 33.9573115, 'airport_distance': 1.6095137597084104, 'sighted_at': '20100710', 'CO Mean': '0.65', 'population': '104442'}\n",
+                            "name": "77",
+                            "path": "77",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '109,659', 'county': 'Okaloosa', 'SO2 Mean': '0.325', 'O3 Mean': '0.031208', 'reported_at': '20100312', 'cancer_incidence_counts_white': '95,635', 'airport_name': 'Destin Emergency Care Center Heliport', 'longitude': -86.4957834, 'cancer_incidence_counts_hispanic': '14,928', 'duration': '10 minutes', 'shape': ' circle', 'location': ' Destin, FL', 'death rate': '12-13.9', 'latitude': 30.3935337, 'airport_distance': 1.4544688451495063, 'sighted_at': '20100312', 'CO Mean': '0.554167', 'population': '180757'}\n",
+                            "name": "89",
+                            "path": "89",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '137,371', 'county': 'San Diego', 'SO2 Mean': '0.075', 'O3 Mean': '0.027625', 'reported_at': '20000312', 'cancer_incidence_counts_white': '115,410', 'airport_name': 'Pat Coyle Memorial Heliport', 'longitude': -117.0814849, 'cancer_incidence_counts_hispanic': '18,290', 'duration': '5 min', 'shape': ' light', 'location': ' Escondido, CA', 'death rate': '6-7.9', 'latitude': 33.1216751, 'airport_distance': 3.9871256982987764, 'sighted_at': '20000312', 'CO Mean': '0.05', 'population': '2827366'}\n",
+                            "name": "90",
+                            "path": "90",
+                            "score": 0.0137
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '148,265', 'county': 'San Diego', 'SO2 Mean': '1.15', 'O3 Mean': '0.021625', 'reported_at': '20050820', 'cancer_incidence_counts_white': '121,624', 'airport_name': 'Gillespie Field', 'longitude': -116.9625269, 'cancer_incidence_counts_hispanic': '23,539', 'duration': 'few minutes', 'shape': ' circle', 'location': ' El Cajon, CA', 'death rate': '8-9.9', 'latitude': 32.7947731, 'airport_distance': 2.2405265287875995, 'sighted_at': '20050820', 'CO Mean': '0.495833', 'population': '2938375'}\n",
+                            "name": "91",
+                            "path": "91",
+                            "score": 0.0137
+                        }
+                    ],
+                    "name": "group1"
+                }
+            ],
+            "name": "cluster1"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '28,501', 'county': 'Baltimore (city)', 'SO2 Mean': '4.333333', 'O3 Mean': '0.022917', 'reported_at': '20080829', 'cancer_incidence_counts_white': '20,277', 'airport_name': 'Baltimore Police Department Heliport', 'longitude': -76.610759, 'cancer_incidence_counts_hispanic': '634', 'duration': '3-5 minutes', 'shape': ' oval', 'location': ' Baltimore, MD', 'death rate': '', 'latitude': 39.2908816, 'airport_distance': 0.17754852394654652, 'sighted_at': '20080829', 'CO Mean': '0.6375', 'population': ''}\n",
+                            "name": "0",
+                            "path": "0",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Crawford', 'SO2 Mean': '0.642857', 'O3 Mean': '0.008833', 'reported_at': '20100817', 'cancer_incidence_counts_white': '', 'airport_name': 'Dubai International Airport', 'longitude': 55.3605655, 'cancer_incidence_counts_hispanic': '', 'duration': '30 seconds', 'shape': ' light', 'location': ' Sharjah (United Arab Emirates),', 'death rate': '14-15.9', 'latitude': 25.3361589, 'airport_distance': 5.766144726153381, 'sighted_at': '20100815', 'CO Mean': '2.154167', 'population': '61980'}\n",
+                            "name": "15",
+                            "path": "15",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'New Haven', 'SO2 Mean': '9.35', 'O3 Mean': '0.042708', 'reported_at': '20050417', 'cancer_incidence_counts_white': '', 'airport_name': 'Quezaltenango Airport', 'longitude': -91.6152074, 'cancer_incidence_counts_hispanic': '', 'duration': '1 min', 'shape': ' triangle', 'location': ' Quetzaltenango (Guatemala),', 'death rate': '10-11.9', 'latitude': 14.7360257, 'airport_distance': 11.72256822657298, 'sighted_at': '20050416', 'CO Mean': '1.329167', 'population': '847162'}\n",
+                            "name": "16",
+                            "path": "16",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Buffalo', 'SO2 Mean': '3.1375', 'O3 Mean': '0.009', 'reported_at': '19990120', 'cancer_incidence_counts_white': '', 'airport_name': 'St Anthony Regional Hospital Heliport', 'longitude': -94.8669304, 'cancer_incidence_counts_hispanic': '', 'duration': '20 minutes', 'shape': ' cigar', 'location': ' Carlinville (from, until almost Carrollton), IL', 'death rate': '<2', 'latitude': 42.0658184, 'airport_distance': 0.5243565352476047, 'sighted_at': '19990119', 'CO Mean': '0.829167', 'population': '41904'}\n",
+                            "name": "22",
+                            "path": "22",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Hampden', 'SO2 Mean': '3.675', 'O3 Mean': '0.017167', 'reported_at': '20070102', 'cancer_incidence_counts_white': '', 'airport_name': 'Cricklewood Aerodrome', 'longitude': -0.2957562, 'cancer_incidence_counts_hispanic': '', 'duration': '15-20 seconds', 'shape': ' unknown', 'location': ' Wembley, London (UK/England),', 'death rate': '10-11.9', 'latitude': 51.5531547, 'airport_distance': 3.6488854310017453, 'sighted_at': '20041106', 'CO Mean': '0.5', 'population': '460841'}\n",
+                            "name": "23",
+                            "path": "23",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Merrimack', 'SO2 Mean': '0.825', 'O3 Mean': '0.01675', 'reported_at': '20090921', 'cancer_incidence_counts_white': '', 'airport_name': 'Toronto (Sunnybrook Medical Centre) Heliport', 'longitude': -79.304518, 'cancer_incidence_counts_hispanic': '', 'duration': '2-3 MINS', 'shape': ' changing', 'location': ' Scarborough (Canada), ON', 'death rate': '10-11.9', 'latitude': 43.7791569, 'airport_distance': 5.189196471512596, 'sighted_at': '20090917', 'CO Mean': '0.0', 'population': '146723'}\n",
+                            "name": "28",
+                            "path": "28",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Palm Beach', 'SO2 Mean': '1.083333', 'O3 Mean': '0.022417', 'reported_at': '20040123', 'cancer_incidence_counts_white': '', 'airport_name': 'Isedor Iverson Airport', 'longitude': -93.313842, 'cancer_incidence_counts_hispanic': '', 'duration': '2 minutes', 'shape': ' other', 'location': ' Moody/McGregor (between, rural ), TX', 'death rate': '14-15.9', 'latitude': 46.6066151, 'airport_distance': 0.8638030225311645, 'sighted_at': '20040119', 'CO Mean': '0.483333', 'population': '1252223'}\n",
+                            "name": "34",
+                            "path": "34",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '27,507', 'county': '', 'SO2 Mean': '7.083333', 'O3 Mean': '0.02775', 'reported_at': '20040128', 'cancer_incidence_counts_white': '25,978', 'airport_name': 'Ha-Rail Airport', 'longitude': -88.8604187102197, 'cancer_incidence_counts_hispanic': '326', 'duration': '1 minute', 'shape': ' changing', 'location': ' Aztalan State Park, WI', 'death rate': '', 'latitude': 43.066505, 'airport_distance': 2.6754009882589718, 'sighted_at': '20030808', 'CO Mean': '0.358333', 'population': ''}\n",
+                            "name": "39",
+                            "path": "39",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Monroe', 'SO2 Mean': '0.733333', 'O3 Mean': '0.00725', 'reported_at': '20040824', 'cancer_incidence_counts_white': '', 'airport_name': '\\\\u00cele Sainte-H\\\\u00e9l\\\\u00e8ne Water Airport', 'longitude': -73.5526907, 'cancer_incidence_counts_hispanic': '', 'duration': '15 min.', 'shape': ' circle', 'location': ' Montreal (Canada), QC', 'death rate': '4-5.9', 'latitude': 45.5224467, 'airport_distance': 0.6493179734886715, 'sighted_at': '20040821', 'CO Mean': '0.704167', 'population': '23769'}\n",
+                            "name": "40",
+                            "path": "40",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '28,610', 'county': 'Orange', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20000227', 'cancer_incidence_counts_white': '26,417', 'airport_name': 'Brown Airport', 'longitude': -85.834366, 'cancer_incidence_counts_hispanic': '365', 'duration': '~10 Min', 'shape': ' light', 'location': ' Goshen, IN', 'death rate': '4-5.9', 'latitude': 41.5824086, 'airport_distance': 2.799208284530295, 'sighted_at': '20000226', 'CO Mean': '', 'population': '2854513'}\n",
+                            "name": "51",
+                            "path": "51",
+                            "score": 0.0129
+                        }
+                    ],
+                    "name": "group0"
+                },
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Rice', 'SO2 Mean': '0.9875', 'O3 Mean': '0.015083', 'reported_at': '20040117', 'cancer_incidence_counts_white': '', 'airport_name': 'Ignalina', 'longitude': 26.1672935, 'cancer_incidence_counts_hispanic': '', 'duration': '10 seconds', 'shape': ' unknown', 'location': ' Little River, SD', 'death rate': '4-5.9', 'latitude': 55.1592876, 'airport_distance': 5.86947206136217, 'sighted_at': '20040113', 'CO Mean': '0.458333', 'population': '10498'}\n",
+                            "name": "55",
+                            "path": "55",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'DeBaca', 'SO2 Mean': '0.085714', 'O3 Mean': '0.016208', 'reported_at': '20090411', 'cancer_incidence_counts_white': '', 'airport_name': 'Groundhog Mountain Airport', 'longitude': -80.6717346, 'cancer_incidence_counts_hispanic': '', 'duration': '1 minute', 'shape': ' sphere', 'location': ' Tabusintac (Canada), NB', 'death rate': '10-11.9', 'latitude': 36.5895764, 'airport_distance': 10.827171006478535, 'sighted_at': '20090410', 'CO Mean': '0.958333', 'population': '2002'}\n",
+                            "name": "56",
+                            "path": "56",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '77,755', 'county': 'Delaware', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20091210', 'cancer_incidence_counts_white': '68,904', 'airport_name': 'Mountain Top Airport', 'longitude': -75.5913178, 'cancer_incidence_counts_hispanic': '1,414', 'duration': '10 seconds', 'shape': ' triangle', 'location': ' Chadds Ford, PA', 'death rate': '14-15.9', 'latitude': 39.8717773, 'airport_distance': 1.5601993422288578, 'sighted_at': '20091127', 'CO Mean': '', 'population': '117490'}\n",
+                            "name": "71",
+                            "path": "71",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '101,097', 'county': 'Caldwell', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20090928', 'cancer_incidence_counts_white': '87,068', 'airport_name': 'Alison Air Park', 'longitude': -97.8408364, 'cancer_incidence_counts_hispanic': '20,318', 'duration': '5 min-10min', 'shape': ' changing', 'location': ' Martindale, TX', 'death rate': '10-11.9', 'latitude': 29.8454994, 'airport_distance': 3.0608937370996525, 'sighted_at': '20090925', 'CO Mean': '', 'population': '12996'}\n",
+                            "name": "74",
+                            "path": "74",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '156,216', 'county': 'Riverside', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20071211', 'cancer_incidence_counts_white': '126,933', 'airport_name': 'Hemet Valley Hospital Helistop', 'longitude': -116.958635, 'cancer_incidence_counts_hispanic': '25,446', 'duration': '5 seconds', 'shape': ' other', 'location': ' San Jacinto, CA', 'death rate': '8-9.9', 'latitude': 33.7839084, 'airport_distance': 2.3435977938733434, 'sighted_at': '20071210', 'CO Mean': '', 'population': '2075183'}\n",
+                            "name": "87",
+                            "path": "87",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '34,594', 'county': 'Mahaska', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20050615', 'cancer_incidence_counts_white': '27,285', 'airport_name': 'Faber Airport', 'longitude': -78.7375186, 'cancer_incidence_counts_hispanic': '673', 'duration': '1.5 min', 'shape': ' triangle', 'location': ' Faber, VA', 'death rate': '4-5.9', 'latitude': 37.8318084, 'airport_distance': 0.545043435160305, 'sighted_at': '20050515', 'CO Mean': '', 'population': '22454'}\n",
+                            "name": "92",
+                            "path": "92",
+                            "score": 0.0129
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '7,296', 'county': 'San Juan', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20010215', 'cancer_incidence_counts_white': '6,873', 'airport_name': 'Aztec Municipal Airport', 'longitude': -107.9928992, 'cancer_incidence_counts_hispanic': '1,975', 'duration': '3min', 'shape': ' light', 'location': ' Aztec, NM', 'death rate': '<2', 'latitude': 36.8220629, 'airport_distance': 2.129199922561532, 'sighted_at': '19990815', 'CO Mean': '', 'population': '549'}\n",
+                            "name": "96",
+                            "path": "96",
+                            "score": 0.0129
+                        }
+                    ],
+                    "name": "group1"
+                }
+            ],
+            "name": "cluster2"
+        },
+        {
+            "children": [
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Dallas', 'SO2 Mean': '6.208333', 'O3 Mean': '0.026125', 'reported_at': '20090101', 'cancer_incidence_counts_white': '', 'airport_name': 'The Royal London Hospital Helipad', 'longitude': -0.113476774884536, 'cancer_incidence_counts_hispanic': '', 'duration': '7minutes', 'shape': ' disk', 'location': ' London (UK/England),', 'death rate': '4-5.9', 'latitude': 51.51419575, 'airport_distance': 2.3847695216027565, 'sighted_at': '20090101', 'CO Mean': '0.316667', 'population': '43759'}\n",
+                    "name": "5",
+                    "path": "5",
+                    "score": 0.0121
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'King', 'SO2 Mean': '0.045455', 'O3 Mean': '0.023167', 'reported_at': '20100308', 'cancer_incidence_counts_white': '', 'airport_name': 'Salterford Farm Airfield', 'longitude': -1.1973365, 'cancer_incidence_counts_hispanic': '', 'duration': '', 'shape': ' light', 'location': ' Mansfield (UK/England),', 'death rate': '<2', 'latitude': 53.1447678, 'airport_distance': 7.157641751607325, 'sighted_at': '20100307', 'CO Mean': '0.422727', 'population': '288'}\n",
+                    "name": "13",
+                    "path": "13",
+                    "score": 0.0121
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '110,412', 'county': 'Randall', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20020421', 'cancer_incidence_counts_white': '88,141', 'airport_name': 'Ibm Customer Executive Education Center Heliport', 'longitude': -73.91346, 'cancer_incidence_counts_hispanic': '10,766', 'duration': '', 'shape': ' cross', 'location': ' Palisades, NY', 'death rate': '4-5.9', 'latitude': 41.0111793, 'airport_distance': 0.5628583904269784, 'sighted_at': '20020110', 'CO Mean': '', 'population': '106286'}\n",
+                    "name": "32",
+                    "path": "32",
+                    "score": 0.0121
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '22,956', 'county': 'Bossier', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20080209', 'cancer_incidence_counts_white': '16,606', 'airport_name': 'Gilliam Airport', 'longitude': -93.6968433, 'cancer_incidence_counts_hispanic': '409', 'duration': '3 HOURS', 'shape': ' unknown', 'location': ' Plain Dealing, LA', 'death rate': '8-9.9', 'latitude': 32.9051385, 'airport_distance': 9.414885515934463, 'sighted_at': '20080209', 'CO Mean': '', 'population': '113824'}\n",
+                    "name": "35",
+                    "path": "35",
+                    "score": 0.0121
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Upshur', 'SO2 Mean': '2.485714', 'O3 Mean': '0.02475', 'reported_at': '20070818', 'cancer_incidence_counts_white': '', 'airport_name': 'The Royal London Hospital Helipad', 'longitude': -0.113476774884536, 'cancer_incidence_counts_hispanic': '', 'duration': '5mins', 'shape': ' light', 'location': ' London (UK/England),', 'death rate': '8-9.9', 'latitude': 51.51419575, 'airport_distance': 2.3847695216027565, 'sighted_at': '20070818', 'CO Mean': '0.43913', 'population': '38275'}\n",
+                    "name": "36",
+                    "path": "36",
+                    "score": 0.0121
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '43,234', 'county': 'Bartow', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20100216', 'cancer_incidence_counts_white': '31,427', 'airport_name': 'Mercer Airfield', 'longitude': -84.9341093, 'cancer_incidence_counts_hispanic': '1,002', 'duration': '', 'shape': ' rectangle', 'location': ' Adairsville, GA', 'death rate': '12-13.9', 'latitude': 34.3687021, 'airport_distance': 4.791221422299456, 'sighted_at': '20100101', 'CO Mean': '', 'population': '100139'}\n",
+                    "name": "48",
+                    "path": "48",
+                    "score": 0.0121
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Traill', 'SO2 Mean': '4.25', 'O3 Mean': '0.051', 'reported_at': '20050213', 'cancer_incidence_counts_white': '', 'airport_name': 'Tejgaon Airport', 'longitude': 90.3788136, 'cancer_incidence_counts_hispanic': '', 'duration': '1 minute', 'shape': ' unknown', 'location': ' Dhaka (Bangladesh),', 'death rate': '<2', 'latitude': 23.7593572, 'airport_distance': 1.3659590306490894, 'sighted_at': '20050213', 'CO Mean': '0.433333', 'population': '8317'}\n",
+                    "name": "60",
+                    "path": "60",
+                    "score": 0.0121
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '5,587', 'county': 'Santa Clara', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20010120', 'cancer_incidence_counts_white': '1,691', 'airport_name': 'Old Kona Airport', 'longitude': -155.996933, 'cancer_incidence_counts_hispanic': '176', 'duration': '5 seconds', 'shape': ' fireball', 'location': ' Kailua-Kona, HI', 'death rate': '2-3.9', 'latitude': 19.641941, 'airport_distance': 0.9621740473950854, 'sighted_at': '20010120', 'CO Mean': '', 'population': '1688082'}\n",
+                    "name": "84",
+                    "path": "84",
+                    "score": 0.0121
+                }
+            ],
+            "name": "cluster3"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Kent', 'SO2 Mean': '2.545455', 'O3 Mean': '0.028917', 'reported_at': '20060408', 'cancer_incidence_counts_white': '', 'airport_name': 'Bridger Creek Airport', 'longitude': -107.5685348, 'cancer_incidence_counts_hispanic': '', 'duration': '1 min', 'shape': ' disk', 'location': ' Wyoming, MI', 'death rate': '', 'latitude': 43.1700264, 'airport_distance': 13.204854339013199, 'sighted_at': '19940310', 'CO Mean': '0.247826', 'population': ''}\n",
+                            "name": "6",
+                            "path": "6",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Brown', 'SO2 Mean': '0.0', 'O3 Mean': '0.021833', 'reported_at': '20090405', 'cancer_incidence_counts_white': '', 'airport_name': 'St Vincent Hospital Heliport', 'longitude': -88.0125794, 'cancer_incidence_counts_hispanic': '', 'duration': '15-20 minutes', 'shape': ' light', 'location': ' Green Bay, WI', 'death rate': '', 'latitude': 44.5126379, 'airport_distance': 0.7785115240797741, 'sighted_at': '19971001', 'CO Mean': '0.4', 'population': ''}\n",
+                            "name": "8",
+                            "path": "8",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Tulsa', 'SO2 Mean': '4.5', 'O3 Mean': '0.03375', 'reported_at': '20050301', 'cancer_incidence_counts_white': '', 'airport_name': 'KOTV Heliport', 'longitude': -95.9929113, 'cancer_incidence_counts_hispanic': '', 'duration': '30 seconds', 'shape': ' circle', 'location': ' Tulsa, OK', 'death rate': '', 'latitude': 36.1556805, 'airport_distance': 0.3651359415751803, 'sighted_at': '19640615', 'CO Mean': '0.05', 'population': ''}\n",
+                            "name": "9",
+                            "path": "9",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Otsego', 'SO2 Mean': '1.727273', 'O3 Mean': '0.026792', 'reported_at': '20080201', 'cancer_incidence_counts_white': '', 'airport_name': 'Syracuse Hospital Heliport', 'longitude': -96.269732, 'cancer_incidence_counts_hispanic': '', 'duration': '20 seconds', 'shape': ' cigar', 'location': ' Unadilla, NE', 'death rate': '', 'latitude': 40.683335, 'airport_distance': 4.508010559460774, 'sighted_at': '19850315', 'CO Mean': '0.395833', 'population': ''}\n",
+                            "name": "11",
+                            "path": "11",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Kent', 'SO2 Mean': '2.291667', 'O3 Mean': '0.029292', 'reported_at': '19971118', 'cancer_incidence_counts_white': '', 'airport_name': 'B & G Heliport', 'longitude': -85.6447492, 'cancer_incidence_counts_hispanic': '', 'duration': '1 minute', 'shape': ' other', 'location': ' Kentwood, MI', 'death rate': '', 'latitude': 42.8694731, 'airport_distance': 4.128545130504693, 'sighted_at': '19971106', 'CO Mean': '0.375', 'population': ''}\n",
+                            "name": "25",
+                            "path": "25",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Oswego', 'SO2 Mean': '1.0', 'O3 Mean': '0.01875', 'reported_at': '20050627', 'cancer_incidence_counts_white': '', 'airport_name': 'KTSP Heliport', 'longitude': -112.0773456, 'cancer_incidence_counts_hispanic': '', 'duration': '30 minutes', 'shape': ' other', 'location': ' Phoenix, AZ', 'death rate': '', 'latitude': 33.4485866, 'airport_distance': 0.21093920617764145, 'sighted_at': '19970313', 'CO Mean': '0.258333', 'population': ''}\n",
+                            "name": "29",
+                            "path": "29",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Los Angeles', 'SO2 Mean': '2.55', 'O3 Mean': '0.021625', 'reported_at': '19990130', 'cancer_incidence_counts_white': '', 'airport_name': 'City Hall Heliport', 'longitude': -118.244476, 'cancer_incidence_counts_hispanic': '', 'duration': '30 seconds or less', 'shape': ' fireball', 'location': ' Los Angeles, CA', 'death rate': '', 'latitude': 34.054935, 'airport_distance': 0.09888836999668714, 'sighted_at': '19790115', 'CO Mean': '0.470833', 'population': ''}\n",
+                            "name": "30",
+                            "path": "30",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Oswego', 'SO2 Mean': '0.8125', 'O3 Mean': '0.021125', 'reported_at': '19981212', 'cancer_incidence_counts_white': '', 'airport_name': 'KTSP Heliport', 'longitude': -112.0773456, 'cancer_incidence_counts_hispanic': '', 'duration': '10 minutes', 'shape': ' circle', 'location': ' Phoenix, AZ', 'death rate': '', 'latitude': 33.4485866, 'airport_distance': 0.21093920617764145, 'sighted_at': '19970313', 'CO Mean': '0.2125', 'population': ''}\n",
+                            "name": "31",
+                            "path": "31",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Douglas', 'SO2 Mean': '2.316667', 'O3 Mean': '0.044583', 'reported_at': '20050822', 'cancer_incidence_counts_white': '', 'airport_name': 'St Joseph Hospital Heliport', 'longitude': -95.9378732, 'cancer_incidence_counts_hispanic': '', 'duration': '15-20 minutes', 'shape': ' disk', 'location': ' Omaha, NE', 'death rate': '', 'latitude': 41.2587317, 'airport_distance': 0.9854987248028372, 'sighted_at': '19680512', 'CO Mean': '0.658333', 'population': ''}\n",
+                            "name": "37",
+                            "path": "37",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Portage', 'SO2 Mean': '1.9875', 'O3 Mean': '0.022917', 'reported_at': '20010111', 'cancer_incidence_counts_white': '', 'airport_name': 'Stevens Point Municipal Airport', 'longitude': -89.574111, 'cancer_incidence_counts_hispanic': '', 'duration': '10 minutes', 'shape': ' sphere', 'location': ' Stevens Point, WI', 'death rate': '', 'latitude': 44.5229223, 'airport_distance': 2.651432775662249, 'sighted_at': '19680515', 'CO Mean': '0.41025', 'population': ''}\n",
+                            "name": "38",
+                            "path": "38",
+                            "score": 0.0113
+                        }
+                    ],
+                    "name": "group0"
+                },
+                {
+                    "children": [
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Sublette', 'SO2 Mean': '0.428571', 'O3 Mean': '0.016208', 'reported_at': '20010729', 'cancer_incidence_counts_white': '', 'airport_name': 'Boulder Community Hospital Heliport', 'longitude': -105.2705456, 'cancer_incidence_counts_hispanic': '', 'duration': '5mins', 'shape': ' other', 'location': ' Boulder, CO', 'death rate': '', 'latitude': 40.0149856, 'airport_distance': 1.1363844319294967, 'sighted_at': '19690601', 'CO Mean': '0.717391', 'population': ''}\n",
+                            "name": "41",
+                            "path": "41",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Oneida', 'SO2 Mean': '3.0', 'O3 Mean': '0.01375', 'reported_at': '19980804', 'cancer_incidence_counts_white': '', 'airport_name': 'Howard Young Medical Center Heliport', 'longitude': -89.710981, 'cancer_incidence_counts_hispanic': '', 'duration': '5-8 minutes', 'shape': ' sphere', 'location': ' Minocqua, WI', 'death rate': '', 'latitude': 45.871342, 'airport_distance': 1.5805300437096235, 'sighted_at': '19980801', 'CO Mean': '0.0', 'population': ''}\n",
+                            "name": "45",
+                            "path": "45",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Saint Louis', 'SO2 Mean': '3.8125', 'O3 Mean': '0.015375', 'reported_at': '20030119', 'cancer_incidence_counts_white': '', 'airport_name': 'Sky Harbor Seaplane Base', 'longitude': -92.538824, 'cancer_incidence_counts_hispanic': '', 'duration': '10-15 minutes', 'shape': ' light', 'location': ' Eveleth, MN', 'death rate': '', 'latitude': 47.462761, 'airport_distance': 2.9156792572934553, 'sighted_at': '19761015', 'CO Mean': '0.725', 'population': ''}\n",
+                            "name": "54",
+                            "path": "54",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Cuyahoga', 'SO2 Mean': '0.657143', 'O3 Mean': '0.04475', 'reported_at': '20071031', 'cancer_incidence_counts_white': '', 'airport_name': 'Swedish S.W. Medical Heliport', 'longitude': -105.11005818223, 'cancer_incidence_counts_hispanic': '', 'duration': '5-7 min', 'shape': ' triangle', 'location': ' Lakewood, CO', 'death rate': '', 'latitude': 39.6311085, 'airport_distance': 2.185471794614841, 'sighted_at': '19760501', 'CO Mean': '0.178261', 'population': ''}\n",
+                            "name": "63",
+                            "path": "63",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Dawes', 'SO2 Mean': '7.0125', 'O3 Mean': '0.041875', 'reported_at': '20090902', 'cancer_incidence_counts_white': '', 'airport_name': 'Lake Whitney State Park Airport', 'longitude': -97.3214012, 'cancer_incidence_counts_hispanic': '', 'duration': '8-10 min', 'shape': ' formation', 'location': ' Whitney, TX', 'death rate': '', 'latitude': 31.951823, 'airport_distance': 3.1360080711099774, 'sighted_at': '19810620', 'CO Mean': '0.2375', 'population': ''}\n",
+                            "name": "66",
+                            "path": "66",
+                            "score": 0.0113
+                        },
+                        {
+                            "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'San Diego', 'SO2 Mean': '4.347826', 'O3 Mean': '0.021667', 'reported_at': '20030911', 'cancer_incidence_counts_white': '', 'airport_name': 'San Diego Police Headquarters Heliport', 'longitude': -117.1627714, 'cancer_incidence_counts_hispanic': '', 'duration': 'five seconds', 'shape': ' sphere', 'location': ' San Diego, CA', 'death rate': '', 'latitude': 32.7174209, 'airport_distance': 0.6999308070723056, 'sighted_at': '19770615', 'CO Mean': '0.5875', 'population': ''}\n",
+                            "name": "97",
+                            "path": "97",
+                            "score": 0.0113
+                        }
+                    ],
+                    "name": "group1"
+                }
+            ],
+            "name": "cluster4"
+        },
+        {
+            "children": [
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '1.0', 'O3 Mean': '0.028792', 'reported_at': '19990515', 'cancer_incidence_counts_white': '', 'airport_name': 'Bed-Ah-Wick Field', 'longitude': -89.1217828, 'cancer_incidence_counts_hispanic': '', 'duration': 'unknown', 'shape': ' sphere', 'location': ' Princeton (Shea Lake) (Canada), BC', 'death rate': '', 'latitude': 43.8508134, 'airport_distance': 0.2547307284858591, 'sighted_at': '19960518', 'CO Mean': '0.418182', 'population': ''}\n",
+                    "name": "10",
+                    "path": "10",
+                    "score": 0.0105
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '10.3625', 'O3 Mean': '0.016583', 'reported_at': '19970817', 'cancer_incidence_counts_white': '', 'airport_name': 'Bob Hope Airport', 'longitude': -118.3740371, 'cancer_incidence_counts_hispanic': '', 'duration': '1 week', 'shape': ' sphere', 'location': ' North Hollywood, CA', 'death rate': '', 'latitude': 34.1729044, 'airport_distance': 2.10451848110799, 'sighted_at': '19580520', 'CO Mean': '0.9875', 'population': ''}\n",
+                    "name": "18",
+                    "path": "18",
+                    "score": 0.0105
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '2.636364', 'O3 Mean': '0.02875', 'reported_at': '20080121', 'cancer_incidence_counts_white': '', 'airport_name': 'Light Valley Tree Farm Heliport', 'longitude': -122.144856618083, 'cancer_incidence_counts_hispanic': '', 'duration': '10-15 minutes', 'shape': ' light', 'location': ' unknown, LA', 'death rate': '', 'latitude': 42.3338287, 'airport_distance': 18.78538266497544, 'sighted_at': '19430815', 'CO Mean': '0.204348', 'population': ''}\n",
+                    "name": "73",
+                    "path": "73",
+                    "score": 0.0105
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '1.928571', 'O3 Mean': '0.02025', 'reported_at': '20040427', 'cancer_incidence_counts_white': '', 'airport_name': 'Brookhaven Airport', 'longitude': -72.8959364, 'cancer_incidence_counts_hispanic': '', 'duration': '20 to 30 min', 'shape': ' disk', 'location': ' Oak Ridge (over classified Y12 facility), TN', 'death rate': '', 'latitude': 40.8939875, 'airport_distance': 5.1717020021630065, 'sighted_at': '19890927', 'CO Mean': '0.291304', 'population': ''}\n",
+                    "name": "88",
+                    "path": "88",
+                    "score": 0.0105
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '3.541667', 'O3 Mean': '0.016292', 'reported_at': '20000414', 'cancer_incidence_counts_white': '', 'airport_name': 'Grace Heliport', 'longitude': -86.39027, 'cancer_incidence_counts_hispanic': '', 'duration': '10 seconds', 'shape': ' oval', 'location': ' Murfreesboro (Just west of), TN', 'death rate': '', 'latitude': 35.8456213, 'airport_distance': 0.5968358229107075, 'sighted_at': '19950707', 'CO Mean': '0.345833', 'population': ''}\n",
+                    "name": "94",
+                    "path": "94",
+                    "score": 0.0105
+                }
+            ],
+            "name": "cluster5"
+        },
+        {
+            "children": [
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '4.8625', 'O3 Mean': '0.025667', 'reported_at': '19950810', 'cancer_incidence_counts_white': '', 'airport_name': 'Avery Field', 'longitude': -69.7133592, 'cancer_incidence_counts_hispanic': '', 'duration': '10 min.', 'shape': '', 'location': ' Moosehead Lake, ME', 'death rate': '', 'latitude': 45.5863382, 'airport_distance': 7.402282105551406, 'sighted_at': '19950806', 'CO Mean': '0.575', 'population': ''}\n",
+                    "name": "1",
+                    "path": "1",
+                    "score": 0.0097
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Fort Bend', 'SO2 Mean': '0.35', 'O3 Mean': '0.017083', 'reported_at': '19950609', 'cancer_incidence_counts_white': '', 'airport_name': 'Valley Medical Center Heliport', 'longitude': -119.708861260756, 'cancer_incidence_counts_hispanic': '', 'duration': '', 'shape': '', 'location': ' Fresno, CA', 'death rate': '', 'latitude': 36.7295295, 'airport_distance': 2.555675270868483, 'sighted_at': '19950608', 'CO Mean': '0.1375', 'population': ''}\n",
+                    "name": "43",
+                    "path": "43",
+                    "score": 0.0097
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Pasco', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20070913', 'cancer_incidence_counts_white': '', 'airport_name': 'Huian Air Base', 'longitude': 118.6868364, 'cancer_incidence_counts_hispanic': '', 'duration': '50sec', 'shape': ' cigar', 'location': ' Xianyou Putian (China),', 'death rate': '20-21.9', 'latitude': 25.3634907, 'airport_distance': 24.498977734772776, 'sighted_at': '20070913', 'CO Mean': '', 'population': '453579'}\n",
+                    "name": "62",
+                    "path": "62",
+                    "score": 0.0097
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '1.3', 'O3 Mean': '0.028667', 'reported_at': '20000715', 'cancer_incidence_counts_white': '', 'airport_name': 'RAF Charmy Down', 'longitude': -2.3596963, 'cancer_incidence_counts_hispanic': '', 'duration': '6 mins', 'shape': ' fireball', 'location': ' Bath (UK/England),', 'death rate': '', 'latitude': 51.3813864, 'airport_distance': 3.30578646293726, 'sighted_at': '20000715', 'CO Mean': '1.125', 'population': ''}\n",
+                    "name": "69",
+                    "path": "69",
+                    "score": 0.0097
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Sebastian', 'SO2 Mean': '0.208333', 'O3 Mean': '0.019542', 'reported_at': '19950710', 'cancer_incidence_counts_white': '', 'airport_name': 'Juniper Hills Airport', 'longitude': -121.406108, 'cancer_incidence_counts_hispanic': '', 'duration': '60 sec.', 'shape': '', 'location': ' Bonanza, OR', 'death rate': '', 'latitude': 42.198761, 'airport_distance': 5.792422062896413, 'sighted_at': '19950710', 'CO Mean': '0.0', 'population': ''}\n",
+                    "name": "76",
+                    "path": "76",
+                    "score": 0.0097
+                },
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': 'Clark', 'SO2 Mean': '0.0', 'O3 Mean': '0.017083', 'reported_at': '19951028', 'cancer_incidence_counts_white': '', 'airport_name': 'CFB Greenwood', 'longitude': -64.9382052, 'cancer_incidence_counts_hispanic': '', 'duration': '3 hrs.', 'shape': '', 'location': ' Greenwood, CA', 'death rate': '', 'latitude': 44.972784, 'airport_distance': 1.315110990134082, 'sighted_at': '19951028', 'CO Mean': '0.416667', 'population': ''}\n",
+                    "name": "82",
+                    "path": "82",
+                    "score": 0.0097
+                }
+            ],
+            "name": "cluster6"
+        },
+        {
+            "children": [
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '0.0', 'O3 Mean': '0.029042', 'reported_at': '20070715', 'cancer_incidence_counts_white': '', 'airport_name': 'Mojave Airport', 'longitude': -118.1739645, 'cancer_incidence_counts_hispanic': '', 'duration': '', 'shape': '', 'location': ' Studio City (Mojave Desert), CA', 'death rate': '', 'latitude': 35.0524699, 'airport_distance': 1.3316990593284714, 'sighted_at': '19651007', 'CO Mean': '0.65375', 'population': ''}\n",
+                    "name": "81",
+                    "path": "81",
+                    "score": 0.0089
+                }
+            ],
+            "name": "cluster7"
+        },
+        {
+            "children": [
+                {
+                    "metadata": "{'cancer_incidence_counts_allraces': '', 'county': '', 'SO2 Mean': '', 'O3 Mean': '', 'reported_at': '20091226', 'cancer_incidence_counts_white': '', 'airport_name': '', 'longitude': '', 'cancer_incidence_counts_hispanic': '', 'duration': '10 min', 'shape': ' circle', 'location': ' Arroy Seco, CA', 'death rate': '', 'latitude': '', 'airport_distance': '', 'sighted_at': '19720630', 'CO Mean': '', 'population': ''}\n",
+                    "name": "85",
+                    "path": "85",
+                    "score": 0.0048
+                }
+            ],
+            "name": "cluster8"
+        }
+    ],
+    "name": "clusters"
+}

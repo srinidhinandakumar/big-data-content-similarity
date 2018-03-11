@@ -1,0 +1,5882 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 649)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.272727)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.004292)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 47.7567679)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20021016)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 27,376)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Kenmore Air Harbor Inc Seaplane Base)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -122.2809623)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- King)",
+                    "size": 2
+                },
+                {
+                    "name": "(duration- 3-4 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  sphere)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Lake Forest Park, WA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- <2)",
+                    "size": 3
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 29,653)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.02936601478)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20021015)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.7375)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 308)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 19,408)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.225)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.027458)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 34.054935)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080804)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 118,604)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- City Hall Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -118.244476)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Los Angeles)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1 minute or so)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  circle)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Los Angeles, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 6-7.9)",
+                    "size": 5
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 142,279)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.0988883699967)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20010912)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.675)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 9626034)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 2,668)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.785714)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.02025)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.0579792)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040914)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 22,768)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Schu Ranch Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -112.2704579)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Mobile)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 15 mn.)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  unknown)",
+                    "size": 4
+                },
+                {
+                    "name": "(location-  Mobile, AZ)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 8-9.9)",
+                    "size": 8
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 24,386)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.8973938869)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20040613)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.554167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 397959)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 2,435)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.708333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.0155)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 34.8657757)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20020804)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 22,110)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Sedona Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -111.7929891)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Coconino)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 6 min.)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  disk)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Sedona, AZ)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 23,422)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.22039135923)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20020529)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.342857)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 121308)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 842)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.585714)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.005542)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 47.6038321)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070502)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 28,637)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- 1001 Fourth Avenue Plaza Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -122.3300624)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30sec.)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  fireball)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Seattle, WA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 31,375)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.275203362017)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20070102)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.504348)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 284)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 895)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.0)",
+                    "size": 2
+                },
+                {
+                    "name": "(O3 Mean- 0.037375)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 34.0659329)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20071113)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 30,885)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Cobb County-Mc Collum Field)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -84.6768796)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Cobb)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 3 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Acworth, GA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 42,074)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 5.77755400108)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20071111)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.1)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 670438)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 762)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.958333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.041417)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.20611635)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050301)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 44,370)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Henry Ford Wyandotte Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -83.2046086602)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Wayne)",
+                    "size": 2
+                },
+                {
+                    "name": "(duration- )",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Southgate, MI)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 10-11.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 52,162)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.0963765771)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20040501)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.054167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 28227)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 980)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.25)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.036)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.3486635)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080108)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 47,228)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Detroit Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -83.0567375)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 2 min.)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  other)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Detroit, MI)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 12-13.9)",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 55,891)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.578149862014)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20071116)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.329167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 29421)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- -)",
+                    "size": 3
+                },
+                {
+                    "name": "(SO2 Mean- 3.333333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.012792)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 39.0889469)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19991112)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 19,547)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- 9 Newsport Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -84.4919524)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Perry)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5 minutes)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Newport, KY)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 20,885)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.16184804799)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19990323)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.520833)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 12001)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 25,446)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.771429)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.044391)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 37.6820583)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070321)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 126,933)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Livermore Municipal Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -121.7680531)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Humboldt)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- < 1 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Livermore, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 24-25.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 156,216)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.94727451266)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20070320)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.482609)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 132001)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 29)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.652174)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.04155)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 45.679984)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19991118)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 4,335)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Bozeman Deaconess Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -111.044675)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Gallatin)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  light)",
+                    "size": 7
+                },
+                {
+                    "name": "(location-  Bozeman, MT)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 2-3.9)",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 4,586)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.41912771773)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19991029)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.2)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 6477)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 2,941)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.2875)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.0105)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 41.5733669)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20051001)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 51,871)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Tinley Park Helistop)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -87.7844944)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Cook)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 15 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Tinley Park, IL)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 4-5.9)",
+                    "size": 5
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 61,945)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.47394933699)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050930)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.329167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 16567)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 26,964)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.25)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.032125)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 46.8443248)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080118)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 128,641)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Quebec/S\\u00fbret\\u00e9 Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -71.2743272)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- San Francisco)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  San Francisco, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 14-15.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 158,538)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.850092015727)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20080113)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.383333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 791152)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.380952)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.013167)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 38.0561079)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070928)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 22,918)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Mount Sterling Montgomery County Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -83.9431961)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Crawford)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 2 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  rectangle)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Mount Sterling, KY)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 24,543)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.98580268974)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20070920)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.626667)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 60210)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 17)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.608696)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.017917)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 44.8831249)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090418)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 8,199)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Dewitt Field,Old Town Municipal Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -68.671977)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Scioto)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 7 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  triangle)",
+                    "size": 4
+                },
+                {
+                    "name": "(location-  Orono (University of Maine), ME)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 22-23.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 8,364)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 4.81683560096)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20090417)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.0375)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 79241)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 216)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.541667)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.034667)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 38.6843072)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20020503)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 25,770)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Williams Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -94.5408358)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Wyandotte)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- Two minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Kansas City, MO)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 28,642)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.10394455263)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20020502)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.508333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 157498)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.025417)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.2223218)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20030101)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 33,718)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Pg Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -70.999492)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Norfolk)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 20 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  oval)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Braintree, MA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 35,927)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 4.48673713042)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20021224)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.325)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 653860)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 336)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 15.375)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.033958)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 37.6922361)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20030623)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 12,221)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- St Francis Regional Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -97.3375448)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Kitsap)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 sec)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Wichita/Mulvane, KS)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 13,158)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.596033853821)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20030522)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.125)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 239758)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 811)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 19.6)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.025583)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.4775364)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20060807)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 45,353)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Acme Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -83.0277001)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Trumbull)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 2 minutes approx.)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Warren, MI)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 16-17.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 53,562)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.933263601454)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20060805)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.0)",
+                    "size": 2
+                },
+                {
+                    "name": "(population- 216185)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 1,128)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.725)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.020458)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 47.0450197)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20100306)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 31,129)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Capitol Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -122.8948725)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Thurston)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 4 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Olympia, WA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 34,440)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.64556946781)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20100305)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 6970)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 813)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.166667)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.004667)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 38.8101034)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20081008)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 29,291)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Novant Health UVA Haymarket Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -77.629009921)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Morris)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1-2 Minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Gainesville/Haymarket, VA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 37,358)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.947729931147)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20081007)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.8625)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 5999)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- ~)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.5)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.044)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 46.826415)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090824)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 3,346)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Mandan Municipal Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -100.889704)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Morton)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Mandan, ND)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 3,488)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 4.02853081527)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20090821)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.308333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 3226)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 2,583)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 9.208333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.01975)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 41.9139556)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20031206)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 51,387)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Delnor Community Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -88.31249)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Fairfield)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 4 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  St Charles, IL)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 60,951)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.42972069782)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20031205)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.445833)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 896342)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 21,089)",
+                    "size": 2
+                },
+                {
+                    "name": "(SO2 Mean- 3.5625)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.019875)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 44.0394329)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070802)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 117,730)",
+                    "size": 2
+                },
+                {
+                    "name": "(airport_name- Philip Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -101.6651441)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Jefferson)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30 to 40 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Philippine Sea/Pacific Ocean, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 142,507)",
+                    "size": 2
+                },
+                {
+                    "name": "(airport_distance- 3.34651081617)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20031023)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.479167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 657513)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 197)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 5.475)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.016417)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 37.338658)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19990122)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 24,927)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Beckner Field)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -92.9071209)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Wood)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 40 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Marshfield, MO)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 27,708)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 4.36146347588)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19990120)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.279167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 120869)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.7625)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.028125)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 46.4901834)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040118)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Doaktown Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -66.3448389)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Windsor)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 4MIN)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  chevron)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Ludlow, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 12.6868290681)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20030613)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.941667)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 57682)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 23,539)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.043478)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.017625)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.255356)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20051027)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 121,624)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Borrego Valley Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -116.356946574)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- San Diego)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 4min)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Borrego Springs, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 148,265)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.09272130336)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20051026)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.083333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 2938375)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 122)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.785714)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.014125)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.6489948)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20060130)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 18,334)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- The Health Care Authority of the City of Anniston Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -85.5874584)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Cleburne)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- a few seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Heflin, AL)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 23,364)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 13.640109799)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20060128)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.970833)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 14538)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 3,584)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.6)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.028833)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 39.971561)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090221)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 42,075)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Pemberton Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -74.6852159076)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Burlington)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- About 20 Mins.)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Pemberton, NJ)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 49,326)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.829413137464)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20070721)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.633333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 447560)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 12,464)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.045455)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.020792)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 30.4380832)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080426)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 93,323)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Tallahassee Memorial Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -84.2809332)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Leon)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  cigar)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Tallahassee, FL)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 104,985)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.78675702152)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20051201)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.691667)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 258083)",
+                    "size": 1
+                }
+            ],
+            "name": "cluster0"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 21,089)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.045455)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.013917)",
+                    "size": 2
+                },
+                {
+                    "name": "(latitude- 34.1816482)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20030330)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 117,730)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- St Joseph Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -118.3258554)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Cook)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 minutes)",
+                    "size": 3
+                },
+                {
+                    "name": "(shape-  fireball)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Burbank, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 4-5.9)",
+                    "size": 3
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 142,507)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.80913228174)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20030330)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.278261)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 16060)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 26,964)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.333333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.022167)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 38.7071247)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20081120)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 128,641)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Mercy San Juan Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -121.2810611)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Sacramento)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  sphere)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Citrus Heights, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 10-11.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 158,538)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.20286895)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20081120)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.941667)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 1394438)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 642)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.108696)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.035208)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 35.2270869)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20061113)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 35,841)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Wbtv Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -80.8431268)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Eaton)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5 min)",
+                    "size": 2
+                },
+                {
+                    "name": "(shape-  circle)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Charlotte, NC)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 6-7.9)",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 45,099)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.46567595627)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20061113)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.195652)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 108364)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 536)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.416667)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.028292)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 34.9809996)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040909)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 33,100)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Viking Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -79.2241998)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Hoke)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 to 15 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  teardrop)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Raeford, NC)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 41,580)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.83132957118)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20040909)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.3)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 38119)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 102)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.1375)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.026)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 35.0456297)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20000406)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 20,281)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Erlanger Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -85.3096801)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Hamilton)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 2 hrs.)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  other)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Chattanooga, TN)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 2-3.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 23,134)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.11307635542)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20000406)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.741667)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 13330)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 842)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.3625)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.036292)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 46.601557)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070621)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 28,637)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Providence Medical Plaza Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -120.5108421)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Yakima)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  light)",
+                    "size": 5
+                },
+                {
+                    "name": "(location-  Yakima, WA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 8-9.9)",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 31,375)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.599854543553)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20070621)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.6)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 232733)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 2,823)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.01875)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.4485866)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050518)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 23,212)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- KTSP Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -112.0773456)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Oswego)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  diamond)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Phoenix, AZ)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 25,095)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.210939206178)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050518)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.258333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 122640)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 1,001)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.956522)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.031583)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 47.4627356)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090203)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 31,170)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Tukwila Operations Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -122.2559156)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- King)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1hr)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Tukwila, WA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- <2)",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 34,235)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.66136209556)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20090203)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.391304)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 279)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 376)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.5)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.03375)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 36.1556805)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050124)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 15,332)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- KOTV Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -95.9929113)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Tulsa)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- unknown was stil going)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Tulsa, OK)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 12-13.9)",
+                    "size": 3
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 17,889)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.365135941575)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050124)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.05)",
+                    "size": 2
+                },
+                {
+                    "name": "(population- 568199)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 23,539)",
+                    "size": 2
+                },
+                {
+                    "name": "(SO2 Mean- 0.014286)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.016167)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.8708215)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050723)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 121,624)",
+                    "size": 2
+                },
+                {
+                    "name": "(airport_name- Northrop Anaheim Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -117.9294165)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Dickey)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Fullerton, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 148,265)",
+                    "size": 2
+                },
+                {
+                    "name": "(airport_distance- 0.818211956853)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050723)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.320833)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 5496)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 166)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 7.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.9573115)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20100710)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 19,538)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Northeast Alabama Regional Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -86.067813938)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Etowah)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 4 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Gadsden, AL)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 25,325)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.60951375971)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20100710)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.65)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 104442)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 14,928)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.325)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.031208)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 30.3935337)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20100312)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 95,635)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Destin Emergency Care Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -86.4957834)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Okaloosa)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Destin, FL)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 109,659)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.45446884515)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20100312)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.554167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 180757)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 18,290)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.075)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.027625)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.1216751)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20000312)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 115,410)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Pat Coyle Memorial Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -117.0814849)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- San Diego)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Escondido, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 137,371)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.9871256983)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20000312)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 2827366)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.15)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.021625)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 32.7947731)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050820)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Gillespie Field)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -116.9625269)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- few minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  El Cajon, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.24052652879)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050820)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.495833)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 2938375)",
+                    "size": 1
+                }
+            ],
+            "name": "cluster1"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 634)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.333333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.022917)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 39.2908816)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080829)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 20,277)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Baltimore Police Department Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -76.610759)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Baltimore (city))",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 3-5 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  oval)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Baltimore, MD)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- )",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 28,501)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.177548523947)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20080829)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.6375)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- )",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- )",
+                    "size": 9
+                },
+                {
+                    "name": "(SO2 Mean- 0.642857)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.008833)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 25.3361589)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20100817)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- )",
+                    "size": 9
+                },
+                {
+                    "name": "(airport_name- Dubai International Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- 55.3605655)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Crawford)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  light)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Sharjah (United Arab Emirates),)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 14-15.9)",
+                    "size": 3
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- )",
+                    "size": 9
+                },
+                {
+                    "name": "(airport_distance- 5.76614472615)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20100815)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 2.154167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 61980)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 9.35)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.042708)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 14.7360257)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050417)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Quezaltenango Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -91.6152074)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- New Haven)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  triangle)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Quetzaltenango (Guatemala),)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 10-11.9)",
+                    "size": 5
+                },
+                {
+                    "name": "(airport_distance- 11.7225682266)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050416)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.329167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 847162)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.1375)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.009)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.0658184)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19990120)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- St Anthony Regional Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -94.8669304)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Buffalo)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 20 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  cigar)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Carlinville (from, until almost Carrollton), IL)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- <2)",
+                    "size": 2
+                },
+                {
+                    "name": "(airport_distance- 0.524356535248)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19990119)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.829167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 41904)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.675)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.017167)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 51.5531547)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070102)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Cricklewood Aerodrome)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -0.2957562)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Hampden)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 15-20 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  unknown)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Wembley, London (UK/England),)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.648885431)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20041106)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.5)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 460841)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.825)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.01675)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 43.7791569)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090921)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Toronto (Sunnybrook Medical Centre) Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -79.304518)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Merrimack)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 2-3 MINS)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  changing)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Scarborough (Canada), ON)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 5.18919647151)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20090917)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 146723)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.083333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.022417)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 46.6066151)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040123)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Isedor Iverson Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -93.313842)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Palm Beach)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 2 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  other)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Moody/McGregor (between, rural ), TX)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.863803022531)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20040119)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.483333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 1252223)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 326)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 7.083333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.02775)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 43.066505)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040128)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 25,978)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Ha-Rail Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -88.8604187102)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- )",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1 minute)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Aztalan State Park, WI)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 27,507)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.67540098826)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20030808)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.358333)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.733333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.00725)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 45.5224467)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040824)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- \\u00cele Sainte-H\\u00e9l\\u00e8ne Water Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -73.5526907)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Monroe)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 15 min.)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  circle)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Montreal (Canada), QC)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 4-5.9)",
+                    "size": 4
+                },
+                {
+                    "name": "(airport_distance- 0.649317973489)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20040821)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.704167)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 23769)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 365)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- )",
+                    "size": 6
+                },
+                {
+                    "name": "(O3 Mean- )",
+                    "size": 6
+                },
+                {
+                    "name": "(latitude- 41.5824086)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20000227)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 26,417)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Brown Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -85.834366)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Orange)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- ~10 Min)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Goshen, IN)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 28,610)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.79920828453)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20000226)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- )",
+                    "size": 6
+                },
+                {
+                    "name": "(population- 2854513)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.9875)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.015083)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 55.1592876)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040117)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Ignalina)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- 26.1672935)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Rice)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 seconds)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Little River, SD)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 5.86947206136)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20040113)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.458333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 10498)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.085714)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.016208)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 36.5895764)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090411)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Groundhog Mountain Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -80.6717346)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- DeBaca)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  sphere)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Tabusintac (Canada), NB)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 10.8271710065)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20090410)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.958333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 2002)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 1,414)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 39.8717773)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20091210)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 68,904)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Mountain Top Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -75.5913178)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Delaware)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Chadds Ford, PA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 77,755)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.56019934223)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20091127)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 117490)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 20,318)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 29.8454994)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090928)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 87,068)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Alison Air Park)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -97.8408364)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Caldwell)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5 min-10min)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Martindale, TX)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 101,097)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.0608937371)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20090925)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 12996)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 25,446)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.7839084)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20071211)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 126,933)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Hemet Valley Hospital Helistop)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -116.958635)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Riverside)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  San Jacinto, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 8-9.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 156,216)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.34359779387)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20071210)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 2075183)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 673)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 37.8318084)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050615)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 27,285)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Faber Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -78.7375186)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Mahaska)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1.5 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Faber, VA)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 34,594)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.54504343516)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050515)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 22454)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 1,975)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 36.8220629)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20010215)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 6,873)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Aztec Municipal Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -107.9928992)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- San Juan)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 3min)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Aztec, NM)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 7,296)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.12919992256)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19990815)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 549)",
+                    "size": 1
+                }
+            ],
+            "name": "cluster2"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- )",
+                    "size": 4
+                },
+                {
+                    "name": "(SO2 Mean- 6.208333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.026125)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 51.51419575)",
+                    "size": 2
+                },
+                {
+                    "name": "(reported_at- 20090101)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- )",
+                    "size": 4
+                },
+                {
+                    "name": "(airport_name- The Royal London Hospital Helipad)",
+                    "size": 2
+                },
+                {
+                    "name": "(longitude- -0.113476774885)",
+                    "size": 2
+                },
+                {
+                    "name": "(county- Dallas)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 7minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  disk)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  London (UK/England),)",
+                    "size": 2
+                },
+                {
+                    "name": "(death rate- 4-5.9)",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- )",
+                    "size": 4
+                },
+                {
+                    "name": "(airport_distance- 2.3847695216)",
+                    "size": 2
+                },
+                {
+                    "name": "(sighted_at- 20090101)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.316667)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 43759)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.045455)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.023167)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 53.1447678)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20100308)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Salterford Farm Airfield)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -1.1973365)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- King)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- )",
+                    "size": 3
+                },
+                {
+                    "name": "(shape-  light)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Mansfield (UK/England),)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- <2)",
+                    "size": 2
+                },
+                {
+                    "name": "(airport_distance- 7.15764175161)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20100307)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.422727)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 288)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 10,766)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- )",
+                    "size": 4
+                },
+                {
+                    "name": "(O3 Mean- )",
+                    "size": 4
+                },
+                {
+                    "name": "(latitude- 41.0111793)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20020421)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 88,141)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Ibm Customer Executive Education Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -73.91346)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Randall)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  cross)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Palisades, NY)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 110,412)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.562858390427)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20020110)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- )",
+                    "size": 4
+                },
+                {
+                    "name": "(population- 106286)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 409)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 32.9051385)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080209)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 16,606)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Gilliam Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -93.6968433)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Bossier)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 3 HOURS)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  unknown)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Plain Dealing, LA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 8-9.9)",
+                    "size": 2
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 22,956)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 9.41488551593)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20080209)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 113824)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.485714)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.02475)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070818)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Upshur)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5mins)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20070818)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.43913)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 38275)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 1,002)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 34.3687021)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20100216)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 31,427)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Mercer Airfield)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -84.9341093)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Bartow)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  rectangle)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Adairsville, GA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 12-13.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 43,234)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 4.7912214223)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20100101)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 100139)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.25)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.051)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 23.7593572)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050213)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Tejgaon Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- 90.3788136)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Traill)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1 minute)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Dhaka (Bangladesh),)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.36595903065)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20050213)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.433333)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 8317)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_hispanic- 176)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 19.641941)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20010120)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- 1,691)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Old Kona Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -155.996933)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Santa Clara)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  fireball)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Kailua-Kona, HI)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 2-3.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- 5,587)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.962174047395)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20010120)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 1688082)",
+                    "size": 1
+                }
+            ],
+            "name": "cluster3"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- )",
+                    "size": 16
+                },
+                {
+                    "name": "(SO2 Mean- 2.545455)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.028917)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 43.1700264)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20060408)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- )",
+                    "size": 16
+                },
+                {
+                    "name": "(airport_name- Bridger Creek Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -107.5685348)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Kent)",
+                    "size": 2
+                },
+                {
+                    "name": "(duration- 1 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  disk)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Wyoming, MI)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- )",
+                    "size": 16
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- )",
+                    "size": 16
+                },
+                {
+                    "name": "(airport_distance- 13.204854339)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19940310)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.247826)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- )",
+                    "size": 16
+                },
+                {
+                    "name": "(SO2 Mean- 0.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.021833)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 44.5126379)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090405)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- St Vincent Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -88.0125794)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Brown)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 15-20 minutes)",
+                    "size": 2
+                },
+                {
+                    "name": "(shape-  light)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Green Bay, WI)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.77851152408)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19971001)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.4)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.5)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.03375)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 36.1556805)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050301)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- KOTV Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -95.9929113)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Tulsa)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  circle)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Tulsa, OK)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.365135941575)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19640615)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.05)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.727273)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.026792)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 40.683335)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080201)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Syracuse Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -96.269732)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Otsego)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 20 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  cigar)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Unadilla, NE)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 4.50801055946)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19850315)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.395833)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.291667)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.029292)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.8694731)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19971118)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- B & G Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -85.6447492)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1 minute)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  other)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Kentwood, MI)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 4.1285451305)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19971106)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.375)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.01875)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 33.4485866)",
+                    "size": 2
+                },
+                {
+                    "name": "(reported_at- 20050627)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- KTSP Heliport)",
+                    "size": 2
+                },
+                {
+                    "name": "(longitude- -112.0773456)",
+                    "size": 2
+                },
+                {
+                    "name": "(county- Oswego)",
+                    "size": 2
+                },
+                {
+                    "name": "(duration- 30 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Phoenix, AZ)",
+                    "size": 2
+                },
+                {
+                    "name": "(airport_distance- 0.210939206178)",
+                    "size": 2
+                },
+                {
+                    "name": "(sighted_at- 19970313)",
+                    "size": 2
+                },
+                {
+                    "name": "(CO Mean- 0.258333)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.55)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.021625)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 34.054935)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19990130)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- City Hall Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -118.244476)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Los Angeles)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 30 seconds or less)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  fireball)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Los Angeles, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.0988883699967)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19790115)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.470833)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.8125)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.021125)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19981212)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 minutes)",
+                    "size": 2
+                },
+                {
+                    "name": "(CO Mean- 0.2125)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.316667)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.044583)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 41.2587317)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20050822)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- St Joseph Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -95.9378732)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Douglas)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Omaha, NE)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.985498724803)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19680512)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.658333)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.9875)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.022917)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 44.5229223)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20010111)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Stevens Point Municipal Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -89.574111)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Portage)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  sphere)",
+                    "size": 3
+                },
+                {
+                    "name": "(location-  Stevens Point, WI)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.65143277566)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19680515)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.41025)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.428571)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.016208)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 40.0149856)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20010729)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Boulder Community Hospital Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -105.2705456)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Sublette)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5mins)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Boulder, CO)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.13638443193)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19690601)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.717391)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.01375)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 45.871342)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19980804)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Howard Young Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -89.710981)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Oneida)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5-8 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Minocqua, WI)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.58053004371)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19980801)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.8125)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.015375)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 47.462761)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20030119)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Sky Harbor Seaplane Base)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -92.538824)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Saint Louis)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10-15 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Eveleth, MN)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.91567925729)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19761015)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.725)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.657143)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.04475)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 39.6311085)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20071031)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Swedish S.W. Medical Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -105.110058182)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Cuyahoga)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 5-7 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  triangle)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Lakewood, CO)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.18547179461)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19760501)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.178261)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 7.0125)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.041875)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 31.951823)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20090902)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Lake Whitney State Park Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -97.3214012)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Dawes)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 8-10 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  formation)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Whitney, TX)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.13600807111)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19810620)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.2375)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 4.347826)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.021667)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 32.7174209)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20030911)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- San Diego Police Headquarters Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -117.1627714)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- San Diego)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- five seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  San Diego, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.699930807072)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19770615)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.5875)",
+                    "size": 1
+                }
+            ],
+            "name": "cluster4"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- )",
+                    "size": 5
+                },
+                {
+                    "name": "(SO2 Mean- 1.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.028792)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 43.8508134)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19990515)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- )",
+                    "size": 5
+                },
+                {
+                    "name": "(airport_name- Bed-Ah-Wick Field)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -89.1217828)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- )",
+                    "size": 5
+                },
+                {
+                    "name": "(duration- unknown)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  sphere)",
+                    "size": 2
+                },
+                {
+                    "name": "(location-  Princeton (Shea Lake) (Canada), BC)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- )",
+                    "size": 5
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- )",
+                    "size": 5
+                },
+                {
+                    "name": "(airport_distance- 0.254730728486)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19960518)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.418182)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- )",
+                    "size": 5
+                },
+                {
+                    "name": "(SO2 Mean- 10.3625)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.016583)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 34.1729044)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19970817)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Bob Hope Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -118.3740371)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 1 week)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  North Hollywood, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.10451848111)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19580520)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.9875)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 2.636364)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.02875)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.3338287)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20080121)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Light Valley Tree Farm Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -122.144856618)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10-15 minutes)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  light)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  unknown, LA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 18.785382665)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19430815)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.204348)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.928571)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.02025)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 40.8939875)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20040427)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Brookhaven Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -72.8959364)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 20 to 30 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  disk)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Oak Ridge (over classified Y12 facility), TN)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 5.17170200216)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19890927)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.291304)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 3.541667)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.016292)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 35.8456213)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20000414)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Grace Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -86.39027)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 seconds)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  oval)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Murfreesboro (Just west of), TN)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 0.596835822911)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19950707)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.345833)",
+                    "size": 1
+                }
+            ],
+            "name": "cluster5"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- )",
+                    "size": 6
+                },
+                {
+                    "name": "(SO2 Mean- 4.8625)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.025667)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 45.5863382)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19950810)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- )",
+                    "size": 6
+                },
+                {
+                    "name": "(airport_name- Avery Field)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -69.7133592)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- )",
+                    "size": 2
+                },
+                {
+                    "name": "(duration- 10 min.)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape- )",
+                    "size": 4
+                },
+                {
+                    "name": "(location-  Moosehead Lake, ME)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- )",
+                    "size": 5
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- )",
+                    "size": 6
+                },
+                {
+                    "name": "(airport_distance- 7.40228210555)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19950806)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.575)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- )",
+                    "size": 5
+                },
+                {
+                    "name": "(SO2 Mean- 0.35)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.017083)",
+                    "size": 2
+                },
+                {
+                    "name": "(latitude- 36.7295295)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19950609)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Valley Medical Center Heliport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -119.708861261)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Fort Bend)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- )",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Fresno, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 2.55567527087)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19950608)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.1375)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- )",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- )",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 25.3634907)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070913)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Huian Air Base)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- 118.6868364)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Pasco)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 50sec)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  cigar)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Xianyou Putian (China),)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- 20-21.9)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 24.4989777348)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20070913)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- )",
+                    "size": 1
+                },
+                {
+                    "name": "(population- 453579)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 1.3)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.028667)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 51.3813864)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20000715)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- RAF Charmy Down)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -2.3596963)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 6 mins)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  fireball)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Bath (UK/England),)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 3.30578646294)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 20000715)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 1.125)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.208333)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.019542)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 42.198761)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19950710)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Juniper Hills Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -121.406108)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Sebastian)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 60 sec.)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Bonanza, OR)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 5.7924220629)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19950710)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 44.972784)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 19951028)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- CFB Greenwood)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -64.9382052)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- Clark)",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 3 hrs.)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Greenwood, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.31511099013)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19951028)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.416667)",
+                    "size": 1
+                }
+            ],
+            "name": "cluster6"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- )",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- 0.0)",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- 0.029042)",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- 35.0524699)",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20070715)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- )",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- Mojave Airport)",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- -118.1739645)",
+                    "size": 1
+                },
+                {
+                    "name": "(county- )",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- )",
+                    "size": 1
+                },
+                {
+                    "name": "(shape- )",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Studio City (Mojave Desert), CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- )",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- )",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- 1.33169905933)",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19651007)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- 0.65375)",
+                    "size": 1
+                },
+                {
+                    "name": "(population- )",
+                    "size": 1
+                }
+            ],
+            "name": "cluster7"
+        },
+        {
+            "children": [
+                {
+                    "name": "(cancer_incidence_counts_hispanic- )",
+                    "size": 1
+                },
+                {
+                    "name": "(SO2 Mean- )",
+                    "size": 1
+                },
+                {
+                    "name": "(O3 Mean- )",
+                    "size": 1
+                },
+                {
+                    "name": "(latitude- )",
+                    "size": 1
+                },
+                {
+                    "name": "(reported_at- 20091226)",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_white- )",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_name- )",
+                    "size": 1
+                },
+                {
+                    "name": "(longitude- )",
+                    "size": 1
+                },
+                {
+                    "name": "(county- )",
+                    "size": 1
+                },
+                {
+                    "name": "(duration- 10 min)",
+                    "size": 1
+                },
+                {
+                    "name": "(shape-  circle)",
+                    "size": 1
+                },
+                {
+                    "name": "(location-  Arroy Seco, CA)",
+                    "size": 1
+                },
+                {
+                    "name": "(death rate- )",
+                    "size": 1
+                },
+                {
+                    "name": "(cancer_incidence_counts_allraces- )",
+                    "size": 1
+                },
+                {
+                    "name": "(airport_distance- )",
+                    "size": 1
+                },
+                {
+                    "name": "(sighted_at- 19720630)",
+                    "size": 1
+                },
+                {
+                    "name": "(CO Mean- )",
+                    "size": 1
+                },
+                {
+                    "name": "(population- )",
+                    "size": 1
+                }
+            ],
+            "name": "cluster8"
+        }
+    ],
+    "name": "clusters"
+}
