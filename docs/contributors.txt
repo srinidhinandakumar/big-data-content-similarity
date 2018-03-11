@@ -1,0 +1,14 @@
+Contributors
+Team #12
+
+1. Aditya Natarajan
+Worked on merging air pollution with lat long from us cities dataset, helper functions, tiki-similarity
+
+2. Rahul Radhakrishnan
+Worked on merging ufo dataset with air pollution, airports datasets, tiki-similarity
+
+3. Srinidhi Nandakumar
+Worked on adding latitude and longitude to ufo dataset, data filter scripts to generate relevant data for d3, documentation
+
+4. Weiwei Duan 
+Worked on merging drug and cancer dataset with ufo, visualizations, documentation
