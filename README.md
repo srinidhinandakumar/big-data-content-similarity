@@ -43,7 +43,7 @@ The final dataset has the following columns:-
   - results: contains images and screenshots, graphs and maps to show inferences and conclusions from the analysis on the final dataset
   
   ### Scripts to run different files:-
-
+  ---
 - Files that contribute to data generation and merging of datasets are:-
 
   - aiprots_pollution_feature.py
