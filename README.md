@@ -1,5 +1,6 @@
 # Clustering a Big Dataset using Tika-Similarity
 
+**Objective**: Using a big dataset - UFO[Unidentified Flying Objects] sightings in the US, we aim to merge it with 4 other relevant datasets such that we add more features to the resulting dataset (v1 UFO dataset). The goal is to understand the unintended consequences of big data and make inferences about UFO sightings and its causes. Through this project, we also aim to understand similarity between different UFO sighting instances
 This project uses a UFO sightings dataset.
 
 Four more datasets (air pollution, drug poisoning, us cities, ufo dataset with latitude and longitude, cancer incedences) are used and a comprehensive dataset is formed.
